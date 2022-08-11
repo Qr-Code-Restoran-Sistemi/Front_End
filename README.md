@@ -1,7 +1,7 @@
 # front_end
 Deneme
 ## Project setup
-```
+```İkinci Deneme
 npm install
 ```
 
