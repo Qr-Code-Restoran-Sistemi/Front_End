@@ -4,7 +4,7 @@ Deneme
 ```İkinci Deneme
 npm install
 ```
-
+Mahir için deneme 
 ### Compiles and hot-reloads for development
 ```
 npm run serve
